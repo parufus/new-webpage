@@ -1,3 +1,9 @@
+#ignore images file
+*.public/images/
+
+
+
+
 # Logs
 logs
 *.log
